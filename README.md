@@ -16,5 +16,27 @@ The app’s homepage will give the user two option:
 
 •	Decryption: It is the process of transforming data or information from an unreadable to readable form. To do so we use decoding algorithms.
 
-![1](https://user-images.githubusercontent.com/85177138/128282092-0860f460-8d05-456b-873c-e787ca1b730f.png)
+![1](https://user-images.githubusercontent.com/85177138/128283253-b4fb549c-057c-4ba0-9497-c024e49bd65d.png)
+
+
+#Encryption 
+
+•	There will be an EditText to input the text that is to be encrypted. Below that we will have a Button to encrypt the text.
+
+•	To display the encrypted code we have another TextView with a Button to copy it.
+
+![2](https://user-images.githubusercontent.com/85177138/128283650-277b5dbb-6541-41b7-b63c-75adb60fdf77.png)
+
+#Decryption
+
+•There will be an EditText to input the encrypted code that is to be decrypted. Below that we will have a Button to decrypt the text. 
+
+•	To display the decrypted code we have another TextView.
+
+![3](https://user-images.githubusercontent.com/85177138/128283988-449036b9-38d5-4e1f-b452-45de8edb1255.png)
+
+
+
+
+
 
